@@ -1,36 +1,38 @@
-[
-    {
-        "id": 1,
-        "image": "https://i.ibb.co/L8VJGRP/p1.png",
-        "name": "Fruits Royal",
-        "category": "web development",
-        "live": "https://fruits-royal.web.app/",
-        "frontEnd": "https://github.com/Lil-boss/fruits-royal-frontend",
-        "backEnd": "https://github.com/Lil-boss/fruits-royal-backend"
-    },
-    {
-        "id": 2,
-        "image": "https://i.ibb.co/514Ks27/p2.png",
-        "name": "Autima Car",
-        "category": "web development",
-        "live": "autima-car.web.app",
-        "frontEnd": "https://github.com/Lil-boss/Autima-car",
-        "backEnd": "https://github.com/Lil-boss/Autima-car-backend"
-    },
-    {
-        "id": 3,
-        "image": "https://i.ibb.co/YBQ9XNL/p3.png",
-        "name": "Kachari",
-        "category": "Web Design",
-        "live": "",
-        "frontEnd": "https://github.com/Lil-boss/kachari"
-    },
-    {
-        "id": 4,
-        "image": "https://i.ibb.co/NSM9FG2/p4.png",
-        "name": "Dashboard",
-        "category": "Web Design",
-        "live": "https://dashboardme.netlify.app/",
-        "frontEnd": "https://github.com/Lil-boss/MERNNETFLIX"
-    }
-]
+{
+    "project": [
+        {
+            "id": 1,
+            "image": "https://i.ibb.co/L8VJGRP/p1.png",
+            "name": "Fruits Royal",
+            "category": "web development",
+            "live": "https://fruits-royal.web.app/",
+            "frontEnd": "https://github.com/Lil-boss/fruits-royal-frontend",
+            "backEnd": "https://github.com/Lil-boss/fruits-royal-backend"
+        },
+        {
+            "id": 2,
+            "image": "https://i.ibb.co/514Ks27/p2.png",
+            "name": "Autima Car",
+            "category": "web development",
+            "live": "autima-car.web.app",
+            "frontEnd": "https://github.com/Lil-boss/Autima-car",
+            "backEnd": "https://github.com/Lil-boss/Autima-car-backend"
+        },
+        {
+            "id": 3,
+            "image": "https://i.ibb.co/YBQ9XNL/p3.png",
+            "name": "Kachari",
+            "category": "Web Design",
+            "live": "",
+            "frontEnd": "https://github.com/Lil-boss/kachari"
+        },
+        {
+            "id": 4,
+            "image": "https://i.ibb.co/NSM9FG2/p4.png",
+            "name": "Dashboard",
+            "category": "Web Design",
+            "live": "https://dashboardme.netlify.app/",
+            "frontEnd": "https://github.com/Lil-boss/MERNNETFLIX"
+        }
+    ]
+}
