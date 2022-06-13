@@ -21,7 +21,7 @@
             "name": "Autima Car",
             "type": "Full Stack",
             "category": "web development",
-            "live": "autima-car.web.app",
+            "live": "https://autima-car.web.app",
             "frontEnd": "https://github.com/Lil-boss/Autima-car",
             "backEnd": "https://github.com/Lil-boss/Autima-car-backend",
             "details": "Fruits Royal is a web application that allows users to order fruits and vegetables from a variety of vendors.This is for a wholesaler who wants to sell their product online. The seller can add, edit, delete and update their product.Users can easily buy any product.This online shop is built with modern technology like react, tailwind CSS, node js, express js, and MongoDB-mongoose."
@@ -34,7 +34,7 @@
             "name": "Kachari",
             "type": "Design",
             "category": "Web Design",
-            "live": "",
+            "live": "https://kachari-auth-system.web.app/",
             "frontEnd": "https://github.com/Lil-boss/kachari",
             "details": "Fruits Royal is a web application that allows users to order fruits and vegetables from a variety of vendors.This is for a wholesaler who wants to sell their product online. The seller can add, edit, delete and update their product.Users can easily buy any product.This online shop is built with modern technology like react, tailwind CSS, node js, express js, and MongoDB-mongoose."
         },
