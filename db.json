@@ -4,35 +4,43 @@
             "id": 1,
             "image": "https://i.ibb.co/L8VJGRP/p1.png",
             "name": "Fruits Royal",
+            "type": "Full Stack",
             "category": "web development",
             "live": "https://fruits-royal.web.app/",
             "frontEnd": "https://github.com/Lil-boss/fruits-royal-frontend",
-            "backEnd": "https://github.com/Lil-boss/fruits-royal-backend"
+            "backEnd": "https://github.com/Lil-boss/fruits-royal-backend",
+            "details": "Fruits Royal is a web application that allows users to order fruits and vegetables from a variety of vendors.This is for a wholesaler who wants to sell their product online. The seller can add, edit, delete and update their product.Users can easily buy any product.This online shop is built with modern technology like react, tailwind CSS, node js, express js, and MongoDB-mongoose."
         },
         {
             "id": 2,
             "image": "https://i.ibb.co/514Ks27/p2.png",
             "name": "Autima Car",
+            "type": "Full Stack",
             "category": "web development",
             "live": "autima-car.web.app",
             "frontEnd": "https://github.com/Lil-boss/Autima-car",
-            "backEnd": "https://github.com/Lil-boss/Autima-car-backend"
+            "backEnd": "https://github.com/Lil-boss/Autima-car-backend",
+            "details": "Fruits Royal is a web application that allows users to order fruits and vegetables from a variety of vendors.This is for a wholesaler who wants to sell their product online. The seller can add, edit, delete and update their product.Users can easily buy any product.This online shop is built with modern technology like react, tailwind CSS, node js, express js, and MongoDB-mongoose."
         },
         {
             "id": 3,
             "image": "https://i.ibb.co/YBQ9XNL/p3.png",
             "name": "Kachari",
+            "type": "Design",
             "category": "Web Design",
             "live": "",
-            "frontEnd": "https://github.com/Lil-boss/kachari"
+            "frontEnd": "https://github.com/Lil-boss/kachari",
+            "details": "Fruits Royal is a web application that allows users to order fruits and vegetables from a variety of vendors.This is for a wholesaler who wants to sell their product online. The seller can add, edit, delete and update their product.Users can easily buy any product.This online shop is built with modern technology like react, tailwind CSS, node js, express js, and MongoDB-mongoose."
         },
         {
             "id": 4,
             "image": "https://i.ibb.co/NSM9FG2/p4.png",
             "name": "Dashboard",
+            "type": "Design",
             "category": "Web Design",
             "live": "https://dashboardme.netlify.app/",
-            "frontEnd": "https://github.com/Lil-boss/MERNNETFLIX"
+            "frontEnd": "https://github.com/Lil-boss/MERNNETFLIX",
+            "details": "Fruits Royal is a web application that allows users to order fruits and vegetables from a variety of vendors.This is for a wholesaler who wants to sell their product online. The seller can add, edit, delete and update their product.Users can easily buy any product.This online shop is built with modern technology like react, tailwind CSS, node js, express js, and MongoDB-mongoose."
         }
     ]
 }
