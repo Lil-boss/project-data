@@ -2,9 +2,9 @@
     "project": [
         {
             "id": 1,
-            "image": "https://i.ibb.co/L8VJGRP/p1.png",
-            "image2": "https://i.ibb.co/9sYh8Z3/fruits-royal-web-app-inventory.png",
-            "image3": "https://i.ibb.co/Bq0H2hr/fruits-royal-web-app-login.png",
+            "image": "https://i.ibb.co/3f2Z8HT/fruits-home.png",
+            "image2": "https://i.ibb.co/98msyjM/fruits-inventory.png",
+            "image3": "https://i.ibb.co/fDKfLZZ/fruits-login.png",
             "name": "Fruits Royal",
             "type": "Full Stack",
             "category": "web development",
@@ -15,9 +15,9 @@
         },
         {
             "id": 2,
-            "image": "https://i.ibb.co/514Ks27/p2.png",
-            "image2": "https://i.ibb.co/R9xHbhs/autima-car-web-app-dashboard.png",
-            "image3": "https://i.ibb.co/dJ7sz8d/autima-car-web-app-dashboard-product.png",
+            "image": "https://i.ibb.co/C8crDzB/autima-home.png",
+            "image2": "https://i.ibb.co/mvT8kLw/autima-dashboard.png",
+            "image3": "https://i.ibb.co/tJmK5V9/autima-product.png",
             "name": "Autima Car",
             "type": "Full Stack",
             "category": "web development",
@@ -28,9 +28,9 @@
         },
         {
             "id": 3,
-            "image": "https://i.ibb.co/YBQ9XNL/p3.png",
-            "image2": "https://i.ibb.co/pP2NCnb/kachari-auth-system-web-app-contact.png",
-            "image3": "https://i.ibb.co/VQHkjYG/kachari-auth-system-web-app-service.png",
+            "image": "https://i.ibb.co/4MFDFw9/kachari-home.png",
+            "image2": "https://i.ibb.co/QHykrp1/kachari-service.png",
+            "image3": "https://i.ibb.co/9v2Z7Gv/kachari-contact.png",
             "name": "Kachari",
             "type": "Design",
             "category": "Web Design",
