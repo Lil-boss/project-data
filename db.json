@@ -1,54 +1,65 @@
 {
-    "project": [
-        {
-            "id": 1,
-            "image": "https://i.ibb.co/3f2Z8HT/fruits-home.png",
-            "image2": "https://i.ibb.co/98msyjM/fruits-inventory.png",
-            "image3": "https://i.ibb.co/fDKfLZZ/fruits-login.png",
-            "name": "Fruits Royal",
-            "type": "Full Stack",
-            "category": "web development",
-            "live": "https://fruits-royal.web.app/",
-            "frontEnd": "https://github.com/Lil-boss/fruits-royal-frontend",
-            "backEnd": "https://github.com/Lil-boss/fruits-royal-backend",
-            "details": "Fruits Royal is a web application that allows users to order fruits and vegetables from a variety of vendors.This is for a wholesaler who wants to sell their product online. The seller can add, edit, delete and update their product.Users can easily buy any product.This online shop is built with modern technology like react, tailwind CSS, node js, express js, and MongoDB-mongoose."
-        },
-        {
-            "id": 2,
-            "image": "https://i.ibb.co/C8crDzB/autima-home.png",
-            "image2": "https://i.ibb.co/mvT8kLw/autima-dashboard.png",
-            "image3": "https://i.ibb.co/tJmK5V9/autima-product.png",
-            "name": "Autima Car",
-            "type": "Full Stack",
-            "category": "web development",
-            "live": "https://autima-car.web.app",
-            "frontEnd": "https://github.com/Lil-boss/Autima-car",
-            "backEnd": "https://github.com/Lil-boss/Autima-car-backend",
-            "details": "This online store is built for manufacturers who want to show and sell their products online. Users can easily buy products and to pay they have to have a credit card. Users can review the site how it looks or their behavior.An admin can add, edit, delete, and update can their product,and also show and delivery to users their product who orders. Admin can also make an admin other users if needed.Built this site I use react, tailwind CSS, daisy UI for design, firebase auth, and JWT for authentication. Nodejs, Express js for backend, and stipe for payment."
-        },
-        {
-            "id": 3,
-            "image": "https://i.ibb.co/4MFDFw9/kachari-home.png",
-            "image2": "https://i.ibb.co/QHykrp1/kachari-service.png",
-            "image3": "https://i.ibb.co/9v2Z7Gv/kachari-contact.png",
-            "name": "Kachari",
-            "type": "Design",
-            "category": "Web Design",
-            "live": "https://kachari-auth-system.web.app/",
-            "frontEnd": "https://github.com/Lil-boss/kachari",
-            "details": "This site is built to spread out your own law service.Clients can see your service and they can contact you. I've used it to make this site react js, tailwind CSS for design, and firebase for authentication"
-        },
-        {
-            "id": 4,
-            "image": "https://i.ibb.co/NSM9FG2/p4.png",
-            "image2": "https: //i.ibb.co/J37MQwh/dashboardme-netlify-app-Products.png",
-            "image3": "https: //i.ibb.co/jTdQX7R/dashboardme-netlify-app-users.png",
-            "name": "Dashboard",
-            "type": "Design",
-            "category": "Web Design",
-            "live": "https://dashboardme.netlify.app/",
-            "frontEnd": "https://github.com/Lil-boss/MERNNETFLIX",
-            "details": "This is a dashboard site for a movie database. Users can add, edit, delete, and update their movie. Users can also see the movie they have added. This site is built with modern technology like react, material UI, html, and css."
-        }
-    ]
+  "project": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/3f2Z8HT/fruits-home.png",
+      "image2": "https://i.ibb.co/98msyjM/fruits-inventory.png",
+      "image3": "https://i.ibb.co/fDKfLZZ/fruits-login.png",
+      "name": "Fruits Royal",
+      "type": "Full Stack",
+      "category": "web development",
+      "live": "https://fruits-royal.web.app/",
+      "frontEnd": "https://github.com/Lil-boss/fruits-royal-frontend",
+      "backEnd": "https://github.com/Lil-boss/fruits-royal-backend",
+      "details": "Fruits Royal is a web application that allows users to order fruits and vegetables from a variety of vendors.This is for a wholesaler who wants to sell their product online. The seller can add, edit, delete and update their product.Users can easily buy any product.This online shop is built with modern technology like react, tailwind CSS, node js, express js, and MongoDB-mongoose."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/C8crDzB/autima-home.png",
+      "image2": "https://i.ibb.co/mvT8kLw/autima-dashboard.png",
+      "image3": "https://i.ibb.co/tJmK5V9/autima-product.png",
+      "name": "Autima Car",
+      "type": "Full Stack",
+      "category": "web development",
+      "live": "https://autima-car.web.app",
+      "frontEnd": "https://github.com/Lil-boss/Autima-car",
+      "backEnd": "https://github.com/Lil-boss/Autima-car-backend",
+      "details": "This online store is built for manufacturers who want to show and sell their products online. Users can easily buy products and to pay they have to have a credit card. Users can review the site how it looks or their behavior.An admin can add, edit, delete, and update can their product,and also show and delivery to users their product who orders. Admin can also make an admin other users if needed.Built this site I use react, tailwind CSS, daisy UI for design, firebase auth, and JWT for authentication. Nodejs, Express js for backend, and stipe for payment."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/4MFDFw9/kachari-home.png",
+      "image2": "https://i.ibb.co/QHykrp1/kachari-service.png",
+      "image3": "https://i.ibb.co/9v2Z7Gv/kachari-contact.png",
+      "name": "Kachari",
+      "type": "Design",
+      "category": "Web Design",
+      "live": "https://kachari-auth-system.web.app/",
+      "frontEnd": "https://github.com/Lil-boss/kachari",
+      "details": "This site is built to spread out your own law service.Clients can see your service and they can contact you. I've used it to make this site react js, tailwind CSS for design, and firebase for authentication"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/NSM9FG2/p4.png",
+      "image2": "https://i.ibb.co/J37MQwh/dashboardme-netlify-app-Products.png",
+      "image3": "https://i.ibb.co/jTdQX7R/dashboardme-netlify-app-users.png",
+      "name": "Dashboard",
+      "type": "Design",
+      "category": "Web Design",
+      "live": "https://dashboardme.netlify.app/",
+      "frontEnd": "https://github.com/Lil-boss/MERNNETFLIX",
+      "details": "This is a dashboard site for a movie database. Users can add, edit, delete, and update their movie. Users can also see the movie they have added. This site is built with modern technology like react, material UI, html, and css."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/ByPnYs3/Screenshot-from-2022-10-08-23-27-22.png",
+      "image2": "https://i.ibb.co/kcVCXpC/Screenshot-from-2022-10-08-23-27-02.png",
+      "name": "SkyPoint",
+      "type": "Design",
+      "category": "Web Design",
+      "live": "https://loquacious-buttercream-d8d9e3.netlify.app/",
+      "frontEnd": "",
+      "details": "This project is for my client, this is travel agency based on dubai"
+    }
+  ]
 }
